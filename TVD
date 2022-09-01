@@ -1,0 +1,21 @@
+{
+    "name": "TokenVest Dinar",
+    "tokens": [
+       {
+            "chainId": 1,
+            "address": "TWiwCRJPAKPpfMiEWpDrpYQKwHWY5wwPjC",
+            "name": "TokenVest Dinar",
+            "symbol": "TVD",
+            "decimals": 6,
+            "logoURI": "http://tokenvest.io/v12_files/logo-light.png"
+        }
+    ],
+    "logoURI": "
+                     "logoURI": "https://static.tronscan.org/production/upload/logo/TWiwCRJPAKPpfMiEWpDrpYQKwHWY5wwPjC.png",
+    "version": {
+        "patch": 1,
+        "major": 0,
+        "minor": 0
+    },
+    "timestamp": 1658131437294
+}
