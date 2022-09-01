@@ -2,12 +2,12 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
-            "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "symbol":"TVD",
+            "address":"TWiwCRJPAKPpfMiEWpDrpYQKwHWY5wwPjC",
             "chainId":1,
             "decimals":18,
-            "name":"SUN TOKEN",
-            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+            "name":"TOKEN VEST Dinar",
+            "logoURI":"https://static.tronscan.org/production/upload/logo/TWiwCRJPAKPpfMiEWpDrpYQKwHWY5wwPjC.png?t=1656366332208"
         },
         {
             "symbol":"BTC",
